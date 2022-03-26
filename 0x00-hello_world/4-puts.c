@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *main function for printing the messagege
- *return: 0 after printing the message
+ *main - entry point
+ *
+ *return: 0 after printing the function
 */
 int main(void)
 {
