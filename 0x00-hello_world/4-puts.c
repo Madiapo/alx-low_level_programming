@@ -4,11 +4,11 @@
  *
  *return: 0 after printing the function
 */
-/**
- * main_function - this is a description
- */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
+/**
+ * return value of main
+ */
 return (0);
 }
