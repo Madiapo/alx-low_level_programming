@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main function for printing the messagege
- * return 0 after printing the message
+ *return: 0 after printing the message
 */
 int main(void)
 {
