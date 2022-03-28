@@ -2,6 +2,7 @@
 /**
  *main - entry point
  *return: 0 after printing the function
+ *My main function for printing
 */
 int main(void)
 {
